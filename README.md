@@ -1,5 +1,5 @@
 
-<img height="700" src="https://github.com/c0le/INetSimAnalyzer/blob/master/INetSimAnalyzerGui.png" />
+<img height="700" src="https://github.com/ProchaskaMarkus/INetSimAnalyzer/blob/master/INetSimAnalyzerGui.png" />
 
 ## Synopsis
 
