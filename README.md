@@ -37,4 +37,4 @@ will be send as an alarm to the admins instance.
 
 ## License
 
-A short snippet describing the license (MIT, Apache, etc.)
+GNU GENERAL PUBLIC LICENSE 3
